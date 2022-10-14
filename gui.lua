@@ -60,6 +60,7 @@ game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
 	        pcall(function()
 if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .99 then
 local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Respawn"})
 wait(1.5)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
 end
@@ -80,6 +81,7 @@ game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
 	        pcall(function()
 if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .75 then
 local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Respawn"})
 wait(1.5)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
 end
@@ -100,6 +102,7 @@ game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
 	        pcall(function()
 if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .50 then
 local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Respawn"})
 wait(1.5)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
 end
@@ -120,6 +123,7 @@ game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
 	        pcall(function()
 if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .30 then
 local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Respawn"})
 wait(1.5)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
 end
@@ -140,6 +144,7 @@ game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
 	        pcall(function()
 if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .25 then
 local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+game.ReplicatedStorage.RemoteEvent:FireServer({"Respawn"})
 wait(1.5)
 game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
 end
