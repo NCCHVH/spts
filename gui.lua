@@ -1,3 +1,9 @@
+local whitelist = {"xx1_st","WzerXari_1","vNCC1337"}
+local ids = {3398612073,3113260335,587069550}
+local plr = game.Players.LocalPlayer
+if not table.find(whitelist,plr.Name) and not table.find(ids,plr.UserId) then
+plr:Kick("Not Whitelisted")
+else
 local suffixes = {'','K','M','B','T','Qa','Qi'}
 local function format(val)
 	for i=1, #suffixes do
