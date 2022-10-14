@@ -1,6 +1,143 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
-
-
-,nil,nil;(function() _msec=(function(e,l,o)local Y=l[(11610/0x87)];local Q=o[e[(0x4fb-647)]][e[(0x326+-79)]];local f=(0x52+-78)/((0x3e2-(627+-0x79))/244)local n=((((-0x38b1+7243)+0xe06)/80)+48)-(123-0x7a)local S=o[e[(485-0x120)]][e[(6160/0x1c)]];local _=(-0x73+(0x151-(0x201-292)))+(44/0x16)local c=o[e[(92380/0x9b)]][e[(220571/0xf7)]]local b=(-0x47+73)-((((6725/0x19)+-0x5c)+-88)-88)local G=(-48+((0x180-(0x1e7-(557-0x123)))-111))local i=((4440/(16946/(0x237-338)))/0xf)local w=(0x76+((-16400/(403-0xef))+-14))local D=(((2201+(-2937/(0xdcb/107)))/0x42)-0x1c)local F=(84+(-0x40b0/((49806-0x6186)/0x78)))local s=((0x3500/(6464/(0x334a/130)))/53)local x=((((0x2e0a2-94330)/231)/4)-100)local P=(62+((-640200/(224-0xa9))/0xc2))local H=((-55+(372-(16770/0x4e)))-0x64)local L=(((0x3dc5fc/((0x5b70/38)-371))/243)/0x22)local r=((0x158e0/((41345-(20747+-0x32))/0x74))/248)local M=(((19602+(-0x33+27))/39)/251)local a=(0x40-(0xce-(316-(-0x4f+250))))local B=(0x32-(((-30+0x29)+-44)+0x50))local K=(153/(((-0x47+8)+10263)/200))local m=(0x47+(-3060/((-0x31+13)+81)))local k=((((0x18843/179)+-105)/0xc)+-0x23)local p=(((-121+(47762/0x8f))-148)-62)local V=e[(2901-0x5e0)];local A=o[e[(34672/0xb0)]][e[(45732/0x6f)]];local y=o[(function(l)return type(l):sub(1,1)..'\101\116'end)('mMKHKKLB')..'\109\101'..('\116\97'or'POPHMBbl')..e[(0x61c8/42)]];local v=o[e[(-96+0x2b4)]][e[(2004-0x409)]];local C=(-0x6b+109)-(0xf0/((0x191+-105)-176))local u=(79+((-0x2e+19)+-50))-(78-0x4c)local g=o[e[(4137/(-87+0x6c))]][e[(755-0x186)]];local l=function(l,e)return l..e end local N=(83-0x4f)*(0x2cc/(((-93+0x2)+0x18b)+-0x7d))local J=o[e[(85752/0x48)]];local O=(152/0x4c)*((-114+((0x2766c-80712)/249))+-0x52)local j=(2130-(-0x5f+1201))*(0x20/(79+((20+-0x51)-0x2)))local T=(0x1b04/(307-(-0x58+262)))local U=(((247+-0x23)-151)+-0x3b)*(72-0x46)local t=o[e[(205108/0xbc)]]or o[e[(138272/0xe8)]][e[(205108/0xbc)]];local h=(31744/((-63+0x6cbf)/0xe0))local e=o[e[(0xe435/(0x4e+-31))]];local v=(function(O)local h,o=1,0x10 local e={j={},v={}}local d=-b local l=o+n while true do e[O:sub(l,(function()l=h+l return l-n end)())]=(function()d=d+b return d end)()if d==(N-b)then d=""o=C break end end local d=#O while l<d+n do e.v[o]=O:sub(l,(function()l=h+l return l-n end)())o=o+b if o%f==C then o=u v(e.j,(g((e[e.v[u]]*N)+e[e.v[b]])))end end return c(e.j)end)("..:::MoonSec::..bBfFlLkKoOpPhHmMHhomlLMhPlkpfBHooMlkMHPlkPffHOOblmMmPLkhfFMKOBloMMPKkHflHPOflObbPKkmfLHhOFlpbBPokMfkHHOllPbfPOKbfKHmOLlhbkPpKBfoHMOklHblPPKffOmbOKlmbLPhKFfpmFOolMbkPHKlfPmfOOLBbKPmKLfhmLOpLBbobLKkfHmlOPLfbOhbKKFfmpOhLFbpHpfmoHMOLpKBbPhfKOlfFkOmLKbhhlKpFBmoPBpLbHhKKPFFmOpbLKfbMPKhFKmppFLobMhkoFkOmPpKLOBbhKKMFLMbpFLpBKhoKMFkmMplLPBfhOokFKmmpLLhBFhpoBFoMLpkLHBlhmofFOMbpKklBLhhoFFPMBpoLMBkmPolFMMfpPkbBohmoPobMFppkBflhMoKFHMLpPkklOHboKFmbBphklBpHLPoFMMkpHKHBPHFoOlkbFpmkLBhmhoplfMoPbkkfBbloPlfMOhOkKBMHLOflMMpPfkoFoHkomllMPPfkHLbHKomlLBLPFkPfBHoPBlkbBPlkHffHhOblKfbPLKBfFHHOBlpMMPhKOflHMOfkfbbPokmfpHhOKKpbBPokMFMHHOLlPbfHPKbfPHmOKlhbkPpKBlpHMOPlHbKPPKlfOmkpFlmbOPhohfpmfOoLlbkhBplfPmfOOkObKPMKLFbBFOpLBboHOKkfmmlOPOmbOhlKKfmmLOhLFbpMLKoFFmkOmLlbPhfKOKmmKpfLLbmhFKpFBmomBLkbHhlKhFfmOpbLObmhLKhFFmPpBLobMkPofFlmPpfKfHLfHOFMpMbpFLpBBHpPLFkmHplLhBfhOobFKMmpLLHBFhpoBFomMpkKPBlhPofFPMbpoLmBLbmoFFpMBpOLMBkhHolFPMfpOkbBMhmoLFhbmPbkBBohMpfblkFPPfBKPLmoPFmMLphkmmklfOlBfMOpHklBPmmLBOMLKPfkLBhHFOkMhLkhohkfOHloPlfBBkMhOfhOomkfhPBBMLPmBBFPhllMPPfkOfbHKKmolLOPFkpfBHooMlkkHMlPbffHOOblKfbPLkhfFmhhKlobfPkKfflHPOflOLBPKKBfLHMOFlPbBPmhBfkmbOlLbbfPpKbfoHmOOKhbFPpKBfHHMOKlHbomPKffOmbOMlmbkPhoLkbmBOPlMbPPHKlfPmfmpLbbpPmKofhmlOpLBLkPMKOfHmkOPLfbOHfhkfmmoOhLObphBKolBbOOHLobPhpKOFbmKPbLLbhhoKpFKmoOMLkbHhlKPFomOpbLKbmhLomFFmppoLoBLhkKHFlmMpfLOBLhKOhFLmHpFLpfkhoooFkMBplLPBfHPhPFKMopLLHBFhpoBLomMpkkKBlHLofFHMbhKLmBLHKoFFpMBpPLMBkhHolloMfPBkbBKhmoLFhMFPokBfbhMokFHMlpPkfflHbOLFmMKphoFBpHBOFFMbBpHkkBPHfoOlbbfpmkKBhHLoplBMopMKBBHHMoPlLMOHbkKBmmbohlmMpPokoBMHkoHlmMPPlkOffHKomlLMhPKkpfpHoOOlkMHPlkPfPHOOFlKbbPLohfFHpOlloboPkKlflHMOklObLPKKhfLHHOFLhFKPoKlfkmfOllPbfPOKMfKmFOLlHbFPmKBfofHOkLBblPHKffOmbOKObbLPhKFfPmBOolMbOPHKlfPmfOOLbbKPmKkfhmFOpLBlpPMKkfHmLOPLfbOhbKofmmLOhLFbphBKoFFmkOHLlPbhKKOFbmKpPbHkPHMFfBPMlOMLkbHHlFFpFMFkbhbfkooHkllpPbPPoBOhkKHFlMHkohfBpolmolHPbbmkflFHlKMFkmHPkfBkmHhFbOLMMkFhofPoOHHlOmMpkLHfkbBofFOMbppLmBLhhoOkBMBpoLMBphHoLFPMfpOkllKhmoLFhMKppkfBoHFPkFHMlpPkMBOHBoKLbfPphkFBpHLooFMMkPFoPBPHfoOloMKpMkLBhHFomKBMopMkkfLHlohlfMHmbkKBmHLOOlFMPPBKpLLHkoHllMHPfkOfbHHmblLMhPFKKfBHOoMlKMHPoOPffHOObLlMmPkkhFLBbOBloMMPKkHflHPPfOfbbPKkmfLHhOLlpbBhokMfKHHOLlPbfPOKbKlHmOLlhbLPpKFfoHMpmlHblPPKffOmbOKlmlKPhKFfpmfOolMbkPHKLfPmfOOFpbhPmKLfhMhLbpMBPKhKmfHmlOPLfFHhbKofmmLOhLFbpHFpmfMmoOHLLbPhfKOFkBhOmLobhhFKpFfmopBLkbHhpKPFfmOpBLKbmhLKhFOmppBLobMhkKHFlmPhbLOBfhKobFLmHpFLpLMhoobFkmMplLPBfhOhfFKmmpLLHBFhpoBFObKpkLHBlLOooFOMbpKKbHkFhoMMHkbHpKLBkhHolFlPKBLKPhHfhOmMbLbkHfLKomlFOLfmbkFhlflkpHHFhOpPbkFBpHBOFbPkKPOFlBPHfoOlbMKpmkHLhHKOllBMopMkmhMllOKMkkOhKBPKhmOPmlKMpPBkofMopMKLbfOPFkOfbHKMmbBMMPFkpfBmLLKPbPOPmkPffHOpLbOLhhbFbOfMBlOpMbOHBKlflHPOfLOPofoKPHPlLpmkLbLPokMfkmoloPPBhpFKLfKHmOLkOPKBOolHmLkOPlHblPPoPHMFmppbPFKhfKFfpmBplBBKBhKfkOpBbOpLbbKPmHlOMmlOpLBbofbOBFBmlOPLfBLKPHLlKfmpFLFbphBkOMkLKPlmhkPHPbKlLmKOmLLBOKMmpFPpobhLMopfloLpmlKOfmKlPOkFpobMMFHPlokhhKHFlmPPmfbKMHKFHOKMbmLLpBBhoObMHLmPPBMlKOHMmpfMfkOhkBKoKHMlKphbhfohOfBOBpHLBpBBoFBPkFOOLmPLOKLMOKOmfFBOMPPlFhfBfKPmBFHpFMHflpPffoKMbloOmBfkmHfmmoOMolHKfHpFPpBMHhokhBPHfoOFOhbMkkLPmBpOlmpmfPPkkBHHlpFbBLPPmfpKoPmlFPBmHKFpLFOfPoHllMPPlKKfbHKomlLMhPFkpFFmhoMlkMHPOkPffHOOblKMmPLkhfFHpOBloMMPkkHfLHPOflObbPKobfLHhOllpBoPokMfkmMOllPbFPOKMfKHmOLKfbFPpKffomoOklmblhmKffHBbOKlmbLhLKFfPmBOoOBbkPHKlfhmfOOLbbOhhKLfHmFOhLBboPMooLfmlOhLfBMhbKKfmmLHbLFbPhBKofMmkOHkkLphfKPFbmOOmLLbhhLooFBmPOMLpbHhlKPFfBBpbLPbmhkKhFFmppBLobMhPKHFKmPpfLOffhKKmFPmhphLpBBhoKMFkmHpOLPBlhOofFKMlpLLhBKhphlFoMbpkkfBlhMPfFOMbpKpBBLhHoFFpbkpoklBkHbolFPMfPPOkBKHloLloMFppkBFoBooklFMlPBkffKHboKoPMLPBkFBhHBopFMMhHpklBMHfhhlbMopmkpBhHKPplBMopMpOBHHLoPlfbmPbkhBmHoohlFMphFOmBMHhoHLbMPPfkOlbfbomlPMhPOkpffHooMOFMHPOkPflHOOflKblmfkhfKHpHllobbPkKfflHMhflObbPKPBfLHHOFlpBkPoKlfkmbOllPbfPPKmfKmlOLlMbFPpKBfofhOkLfblPHKffPmbOHKLbLhBKFkhmBOOlMbkPHKoLPmfOOLblOPmKkfhmFpMLBbHPMKOfHmlOPklBFhbKHfmMOOhLFbpHFKofMmHOHLhbPhfKOlfmKOmLHbhhpKpFBmoOMLkbHhPKPFOmOpoLKBlhLKhFpmphmLoBbhkKmFlmMHfLOBbhKpPFLmHpFkhkbhookFkMoplLPBfhOHBFKMlpLkfBFHBoBFmBkpkkFBlMhofFpMbpKLmBOMhoFFpMBHOLMBKhHookPMfpOkblOhmokFhbLmbkBBmhMObFHMlpPkfkkHbohFmMKphkLBpHKPLFMMppHpKBPHFoOlLMKPfOLBhHFopolMoPbkkBHmOoPlKMOPFkKBmHLOmKOMpPKkoFFHkoHllBPMPkOfkHKOllLbHPFkpkmHoOllkMMPlkHffHMPHlKbfPLpMfFHPOBlHMMPpOHflHPOfohbbPokmfLMBOFlMbBPPkMfkHHpkkkbfPMKbFPHmOLlhfFPpKBfmHMOhlHbKPPKffOmbOhlmbKPhKLfpmBOolMbpPHKOfPmfOOLlbKPmKLfhfkOpLfboPMhffHmoOPLfbOhbKKfmBOOhLKbphfKofMmkpFKPbPhkKOKHmKOMLLbhhFKmkBmoOMLkLphlKhFfBOPBLKBFhLobFFbfpBkpFlhkofFlMPpfLOBbhKhbFLmhpFLPBBhoKMlofFplkbBfHkobFKmmpPOBBFHboBFOmMpKLHBLhPofFMMbpKLmBKhhoFFpMBhkLMBPhHokFPMFpOkllKhmoLFhFPppkfBomBPhFHMOpPkPBOHboKLbMpphkOBpHKooFMMkhHklBPHooOlkMKhbkLfmHFoplOMohlkkBHHloPlfMOPkkKfkHLohlFMpPBkoflHkoHllMHPfkOfbHKOFlLMHPFkPfBHooMlkMHPlkhffHOOblK");local c=(-61+0x86)local o=41 local d=b;local e={}e={[(0x18-23)]=function()local n,b,e,l=S(v,d,d+_);d=d+U;o=(o+(c*U))%h;return(((l+o-(c)+O*(U*f))%O)*((f*j)^f))+(((e+o-(c*f)+O*(f^_))%h)*(O*h))+(((b+o-(c*_)+j)%h)*O)+((n+o-(c*U)+j)%h);end,[(-81+0x53)]=function(l,l,l)local l=S(v,d,d);d=d+n;o=(o+(c))%h;return((l+o-(c)+j)%O);end,[(0x261/(312+-0x6d))]=function()local l,e=S(v,d,d+f);o=(o+(c*f))%h;d=d+f;return(((e+o-(c)+O*(f*U))%O)*h)+((l+o-(c*f)+h*(f^_))%O);end,[(-24+0x1c)]=function(e,l,o)if o then local l=(e/f^(l-b))%f^((o-n)-(l-b)+n);return l-l%b;else local l=f^(l-n);return(e%(l+l)>=l)and b or u;end;end,[(0x41a/210)]=function()local l=e[(163/0xa3)]();local d=e[(-0x70+113)]();local k=b;local o=(e[(656/0xa4)](d,n,N+U)*(f^(N*f)))+l;local l=e[(120+-0x74)](d,21,31);local e=((-b)^e[(0x1ec/123)](d,32));if(l==u)then if(o==C)then return e*u;else l=n;k=C;end;elseif(l==(O*(f^_))-n)then return(o==u)and(e*(n/C))or(e*(u/C));end;return Q(e,l-((h*(U))-b))*(k+(o/(f^T)));end,[(-85+0x5b)]=function(l,f,f)local f;if(not l)then l=e[(98/0x62)]();if(l==u)then return'';end;end;f=A(v,d,d+l-b);d=d+l;local l=''for e=n,#f do l=V(l,g((S(A(f,e,e))+o)%h))o=(o+c)%O end return l;end}local function j(...)return{...},J('#',...)end local function v()local r={};local d={};local l={};local k={r,d,nil,l};local o={}local M=(10234/0x77)local l={[(358/(0x1bb-264))]=(function(l)return not(#l==e[(-27+0x1d)]())end),[(0x70-111)]=(function(l)return e[(0x89-132)]()end),[((201-0xa4)+-37)]=(function(l)return e[((2144/0x43)+-0x1a)]()end),[(0x3f0/252)]=(function(l)local o=e[(1464/0xf4)]()local e=''local l=1 for d=1,#o do l=(l+M)%h e=V(e,g((S(o:sub(d,d))+l)%O))end return e end)};for l=n,e[((-46+0xb9)/139)]()do d[l-n]=v();end;local d=e[(94-0x5d)]()for d=1,d do local e=e[(-0x38+58)]();local b;local l=l[e%(0x4a-51)];o[d]=l and l({});end;for k=1,e[(-122+0x7b)]()do local l=e[(-0x77+121)]();if(e[(72-(0x35ec/203))](l,b,n)==C)then local h=e[(0x6a-102)](l,f,_);local d=e[(0x20c/131)](l,U,f+U);local l={e[(0x3d-58)](),e[((0x1deef/171)/0xef)](),nil,nil};local O={[(0/0x38)]=function()l[K]=e[(-125+0x80)]();l[w]=e[(69+-0x42)]();end,[(116+-0x73)]=function()l[K]=e[(0xb8/184)]();end,[(0x76+-116)]=function()l[B]=e[((-0x45+136)-66)]()-(f^N)end,[(-0x72+117)]=function()l[a]=e[(0x55+-84)]()-(f^N)l[i]=e[((18404/0xd6)-0x53)]();end};O[h]();if(e[(-101+0x69)](d,n,b)==n)then l[P]=o[l[x]]end if(e[(-122+0x7e)](d,f,f)==b)then l[a]=o[l[K]]end if(e[(0x20-(134+-0x6a))](d,_,_)==n)then l[s]=o[l[F]]end r[k]=l;end end;k[3]=e[(0x1e+-28)]();return k;end;local function u(e,U,c)local d=e[f];local o=e[_];local h=e[b];return(function(...)local S=j local N=d;local j={};local v=J('#',...)-n;local e=o;local o={};local C={};local d=b d*=-1 local _=d;local O={...};local d=b;local h=h;for l=0,v do if(l>=e)then j[l-e]=O[l+n];else o[l]=O[l+b];end;end;local e=v-e+b local e;local O;while true do e=h[d];O=e[(-0x75+118)];l=(1691052)while O<=(0x3d+-20)do l-= l l=(3461254)while((202+-0x6e)-0x48)>=O do l-= l l=(3771108)while(0x6e+-101)>=O do l-= l l=(1501260)while(404/0x65)>=O do l-= l l=(2143521)while(-0x2c+45)>=O do l-= l l=(1167830)while O>((9600/0x50)+-120)do l-= l local d=e[B];local l=o[d]for e=d+1,e[w]do l=l..o[e];end;o[e[H]]=l;break end while 4027==(l)/((0x284-354))do local l=e[P]o[l]=o[l](o[l+n])break end;break;end while 1413==(l)/((185074/0x7a))do l=(2300523)while(-0x6f+113)>=O do l-= l local l=e[L]local d,e=S(o[l](t(o,l+1,e[k])))_=e+l-1 local e=0;for l=l,_ do e=e+b;o[l]=d[e];end;break;end while(l)/(((-0x20+6216)-0xc49))==757 do l=(4986093)while O>(0x231/(20944/0x70))do l-= l local l=e[r];local O=o[l+2];local b=o[l]+O;o[l]=b;if(O>0)then if(b<=o[l+1])then d=e[B];o[l+3]=b;end elseif(b>=o[l+1])then d=e[p];o[l+3]=b;end break end while(l)/((0x8df+-52))==2247 do local l=e[L]o[l]=o[l](t(o,l+b,_))break end;break;end break;end break;end while(l)/((0x2e2+(-14608/0xb0)))==2292 do l=(1249857)while O<=(0x55+-79)do l-= l l=(1830096)while(0x343/167)<O do l-= l o[e[H]]=o[e[k]];break end while 1074==(l)/((1770+-0x42))do local O;local P,f;local n;local l;o[e[H]]=c[e[a]];d=d+b;e=h[d];l=e[r];n=o[e[k]];o[l+1]=n;o[l]=n[e[F]];d=d+b;e=h[d];o[e[x]]=e[k];d=d+b;e=h[d];l=e[r]P,f=S(o[l](t(o,l+1,e[p])))_=f+l-1 O=0;for l=l,_ do O=O+b;o[l]=P[O];end;d=d+b;e=h[d];l=e[H]o[l]=o[l](t(o,l+b,_))d=d+b;e=h[d];o[e[r]]();d=d+b;e=h[d];do return end;break end;break;end while(l)/((68187/0xbf))==3501 do l=(2709365)while((354-0xea)-113)>=O do l-= l local l=e[M];local d=o[e[p]];o[l+1]=d;o[l]=d[e[G]];break;end while(l)/((60294/0x4e))==3505 do l=(3968594)while O>(132-0x7c)do l-= l o[e[r]]=o[e[K]][o[e[D]]];break end while(l)/((4479-0x8e1))==1799 do local l=e[r]o[l]=o[l](t(o,l+b,_))break end;break;end break;end break;end break;end while 3916==(l)/((-70+0x409))do l=(3327142)while O<=(2212/0x9e)do l-= l l=(11593025)while(1771/0xa1)>=O do l-= l l=(5994936)while(-0x1b+37)<O do l-= l local l=e[P];local b=o[l]local O=o[l+2];if(O>0)then if(b>o[l+1])then d=e[k];else o[l+3]=b;end elseif(b<o[l+1])then d=e[K];else o[l+3]=b;end break end while 3142==(l)/(((-159+0x34)+2015))do local l;local O;o[e[P]]=c[e[p]];d=d+b;e=h[d];o[e[P]]=e[m];d=d+b;e=h[d];o[e[r]]=e[p];d=d+b;e=h[d];O=e[B];l=o[O]for e=O+1,e[w]do l=l..o[e];end;o[e[x]]=l;d=d+b;e=h[d];if not o[e[P]]then d=d+n;else d=e[p];end;break end;break;end while 3775==(l)/((0x1872-3187))do l=(14292150)while O<=(54-0x2a)do l-= l if(o[e[P]]==o[e[i]])then d=d+n;else d=e[m];end;break;end while 3786==(l)/(((0xe6ed0/124)-3853))do l=(1931478)while(0x73+-102)<O do l-= l o[e[H]]=u(N[e[k]],nil,c);break end while 534==(l)/((0x1c9f-3710))do if not o[e[P]]then d=d+n;else d=e[K];end;break end;break;end break;end break;end while(l)/((0x551+-48))==2534 do l=(7433520)while(2754/0xa2)>=O do l-= l l=(4290160)while O<=(-0x1d+44)do l-= l o[e[M]][o[e[m]]]=o[e[i]];break;end while 1630==(l)/((2697+-0x41))do l=(1038752)while(86+-0x46)<O do l-= l local l={o,e};l[b][l[f][M]]=l[f][F]+l[f][p];break end while 3632==(l)/((64350/0xe1))do o[e[M]]=U[e[a]];break end;break;end break;end while 2636==(l)/((0x93558/(488-0x112)))do l=(7820550)while(0xa20/144)>=O do l-= l c[e[k]]=o[e[M]];break;end while(l)/((0x37287/117))==4050 do l=(4970952)while O>(0x81+-110)do l-= l c[e[K]]=o[e[x]];d=d+b;e=h[d];o[e[H]]={};d=d+b;e=h[d];o[e[r]]={};d=d+b;e=h[d];c[e[K]]=o[e[H]];d=d+b;e=h[d];o[e[M]]=c[e[B]];d=d+b;e=h[d];if(o[e[r]]~=e[i])then d=d+n;else d=e[B];end;break end while 2818==(l)/((0x762+-126))do o[e[M]]();break end;break;end break;end break;end break;end break;end while 958==(l)/((-0x43+3680))do l=(10995324)while(0x1fe/17)>=O do l-= l l=(6597638)while(0x39+-32)>=O do l-= l l=(3503978)while O<=(-0x23+57)do l-= l l=(576436)while O>(3675/0xaf)do l-= l local l={o,e};l[b][l[f][P]]=l[f][G]+l[f][m];break end while 196==(l)/(((0x86ee63c/211)/228))do o[e[P]]=o[e[K]];break end;break;end while 3511==(l)/((0x7ea-1028))do l=(862680)while O<=(66-0x2b)do l-= l local l=e[P]o[l]=o[l](t(o,l+b,e[B]))break;end while(l)/((28392/0x68))==3160 do l=(730170)while(0x42+-42)<O do l-= l o[e[L]]=o[e[a]]%e[i];break end while 1830==(l)/((0x1c4+-53))do U[e[a]]=o[e[M]];break end;break;end break;end break;end while(l)/(((380268+-0x74)/0x98))==2638 do l=(48984)while(0x8e+-115)>=O do l-= l l=(792608)while(-38+0x40)<O do l-= l local l;o[e[x]]=c[e[B]];d=d+b;e=h[d];o[e[x]]=o[e[m]][e[s]];d=d+b;e=h[d];l=e[x]o[l]=o[l](o[l+n])d=d+b;e=h[d];o[e[L]]=o[e[m]];d=d+b;e=h[d];d=e[k];break end while(l)/(((-36+0x535c4)/227))==527 do local d=e[K];local l=o[d]for e=d+1,e[i]do l=l..o[e];end;o[e[r]]=l;break end;break;end while 312==(l)/((0x104+-103))do l=(299880)while O<=(0x8c-112)do l-= l o[e[r]]=u(N[e[k]],nil,c);break;end while 1224==(l)/((0xd84a/226))do l=(3609609)while O>(3683/0x7f)do l-= l local l=e[P]o[l](o[l+n])break end while(l)/((0x941-1222))==3147 do o[e[P]]=U[e[k]];d=d+b;e=h[d];o[e[L]]=#o[e[a]];d=d+b;e=h[d];U[e[p]]=o[e[L]];d=d+b;e=h[d];o[e[H]]=U[e[a]];d=d+b;e=h[d];o[e[r]]=#o[e[k]];d=d+b;e=h[d];U[e[B]]=o[e[L]];d=d+b;e=h[d];do return end;break end;break;end break;end break;end break;end while(l)/((5644-0xb32))==3958 do l=(183180)while(6055/0xad)>=O do l-= l l=(10692864)while(0xd00/104)>=O do l-= l l=(299712)while(-0x37+86)<O do l-= l o[e[M]]=#o[e[K]];break end while 672==(l)/(((104364/0xdf)+-22))do if(o[e[x]]==o[e[F]])then d=d+n;else d=e[k];end;break end;break;end while 4032==(l)/((493272/(448-0x106)))do l=(5278029)while O<=(0x15c9/169)do l-= l o[e[H]][o[e[m]]]=o[e[i]];break;end while 1957==(l)/((0xa9a+-17))do l=(11019200)while(2006/0x3b)<O do l-= l local n;local O;local l;o[e[x]]=e[k];d=d+b;e=h[d];o[e[x]]=e[K];d=d+b;e=h[d];o[e[r]]=#o[e[a]];d=d+b;e=h[d];o[e[H]]=e[B];d=d+b;e=h[d];l=e[P];O=o[l]n=o[l+2];if(n>0)then if(O>o[l+1])then d=e[a];else o[l+3]=O;end elseif(O<o[l+1])then d=e[a];else o[l+3]=O;end break end while 3880==(l)/((247080/0x57))do o[e[P]]=o[e[B]]-o[e[F]];break end;break;end break;end break;end while 3053==(l)/((227-0xa7))do l=(2576750)while(0x63-61)>=O do l-= l l=(629208)while O<=(0x91+-109)do l-= l local l=e[M]o[l]=o[l](t(o,l+b,e[a]))break;end while 3884==(l)/((0x9372/233))do l=(1536600)while O>(101+-0x40)do l-= l do return end;break end while 1182==(l)/((0x31830/(3900/0x19)))do c[e[m]]=o[e[x]];break end;break;end break;end while(l)/((3853-0x7bb))==1375 do l=(2742075)while O<=(0xb1-138)do l-= l if o[e[H]]then d=d+b;else d=e[a];end;break;end while(l)/((0xdb4-1767))==1575 do l=(1966104)while(0x22b0/222)<O do l-= l local l=e[r];local b=o[l]local O=o[l+2];if(O>0)then if(b>o[l+1])then d=e[a];else o[l+3]=b;end elseif(b<o[l+1])then d=e[B];else o[l+3]=b;end break end while(l)/((3096+-0x6c))==658 do local O;local l;o[e[r]]=(e[K]~=0);d=d+b;e=h[d];o[e[x]]=o[e[m]];d=d+b;e=h[d];o[e[L]]=c[e[B]];d=d+b;e=h[d];l=e[H]o[l]=o[l](o[l+n])d=d+b;e=h[d];O=o[e[w]];if not O then d=d+n;else o[e[M]]=O;d=e[k];end;break end;break;end break;end break;end break;end break;end break;end while 506==(l)/(((0x1aa5+-121)-3358))do l=(11616880)while(8804/0x8e)>=O do l-= l l=(765481)while(0xd2-159)>=O do l-= l l=(1303020)while(0x87-89)>=O do l-= l l=(10689840)while((450-0x11d)-0x7a)>=O do l-= l l=(5451657)while O>(0x49+-31)do l-= l o[e[P]]=#o[e[p]];break end while(l)/((0x68e+-55))==3359 do local l=e[x];local O=o[l+2];local b=o[l]+O;o[l]=b;if(O>0)then if(b<=o[l+1])then d=e[a];o[l+3]=b;end elseif(b>=o[l+1])then d=e[p];o[l+3]=b;end break end;break;end while 3636==(l)/((291060/0x63))do l=(1373580)while O<=(0x1e98/(0xff+-77))do l-= l U[e[k]]=o[e[P]];break;end while 1174==(l)/((-0x69+1275))do l=(8253525)while((-64+0x11d4)/0x64)<O do l-= l o[e[L]]=o[e[p]]-o[e[w]];break end while 2765==(l)/((5999-0xbc6))do local l=o[e[s]];if not l then d=d+n;else o[e[P]]=l;d=e[K];end;break end;break;end break;end break;end while(l)/((1152+-0x7e))==1270 do l=(392337)while O<=(0x1560/114)do l-= l l=(1370150)while O>(-81+0x80)do l-= l d=e[a];break end while 670==(l)/((2099+-0x36))do local l={o,e};l[n][l[f][L]]=l[b][l[f][i]]+l[n][l[f][m]];break end;break;end while(l)/((4001+-0x26))==99 do l=(9089220)while(0x1291/97)>=O do l-= l d=e[k];break;end while(l)/((612408/0x9e))==2345 do l=(102366)while(9150/0xb7)<O do l-= l if(o[e[r]]~=o[e[w]])then d=d+n;else d=e[a];end;break end while(l)/((-40+0x6a))==1551 do o[e[L]]=U[e[k]];break end;break;end break;end break;end break;end while 887==(l)/((0x396+-55))do l=(13126476)while O<=(0x1378/89)do l-= l l=(1102946)while(-46+0x63)>=O do l-= l l=(163770)while O>(0x91-93)do l-= l local O=N[e[p]];local b;local l={};b=y({},{__index=function(o,e)local l=l[e];return l[1][l[2]];end,__newindex=function(d,e,o)local l=l[e]l[1][l[2]]=o;end;});for b=1,e[s]do d=d+n;local e=h[d];if e[(81-0x50)]==6 then l[b-1]={o,e[B]};else l[b-1]={U,e[a]};end;C[#C+1]=l;end;o[e[x]]=u(O,b,c);break end while 265==(l)/((0x5e26/39))do o[e[r]]=(e[m]~=0);break end;break;end while(l)/((0x51730/232))==767 do l=(272520)while(0x79+-67)>=O do l-= l o[e[P]]=c[e[p]];break;end while(l)/((15960/0x85))==2271 do l=(5172116)while O>(156-0x65)do l-= l local f=N[e[k]];local O;local l={};O=y({},{__index=function(o,e)local l=l[e];return l[1][l[2]];end,__newindex=function(d,o,e)local l=l[o]l[1][l[2]]=e;end;});for b=1,e[D]do d=d+n;local e=h[d];if e[(0x46-69)]==6 then l[b-1]={o,e[m]};else l[b-1]={U,e[a]};end;C[#C+1]=l;end;o[e[P]]=u(f,O,c);break end while 1588==(l)/((6542-0xcd5))do o[e[H]]=o[e[B]]%e[D];break end;break;end break;end break;end while(l)/((3406+-0x52))==3949 do l=(6939622)while(0xb3+-120)>=O do l-= l l=(665847)while O<=((30870/0xf5)+-0x45)do l-= l if o[e[P]]then d=d+b;else d=e[m];end;break;end while 273==(l)/((0x9e2+-91))do l=(6563234)while O>(0xc5-(373-0xea))do l-= l local d=e[M];local l=o[e[m]];o[d+1]=l;o[d]=l[e[w]];break end while(l)/((-0x40+2403))==2806 do o[e[P]]={};break end;break;end break;end while 3163==(l)/((0x117a-2280))do l=(710150)while(0xee-178)>=O do l-= l if(o[e[x]]~=e[F])then d=d+n;else d=e[B];end;break;end while 350==(l)/((4139-0x83e))do l=(679386)while(163+-0x66)<O do l-= l o[e[M]]={};break end while 1138==(l)/((723+-0x7e))do o[e[L]]=o[e[k]][e[D]];break end;break;end break;end break;end break;end break;end while(l)/((0x1b05-3477))==3377 do l=(250504)while(-18+0x5a)>=O do l-= l l=(335232)while(163+-0x60)>=O do l-= l l=(3515741)while(0x53+-19)>=O do l-= l l=(178800)while(0xb52/46)<O do l-= l do return o[e[M]]end break end while(l)/((0x21778/115))==150 do local l=o[e[F]];if not l then d=d+n;else o[e[x]]=l;d=e[p];end;break end;break;end while 2413==(l)/(((-0x37+5)+0x5e3))do l=(5790664)while O<=(-88+0x99)do l-= l local l={o,e};l[n][l[f][L]]=l[b][l[f][i]]+l[n][l[f][K]];break;end while 2024==(l)/((0x16a1-2932))do l=(3678984)while(-26+(0x216c/93))<O do l-= l local l=e[r]o[l](o[l+n])break end while 2664==(l)/((2859-0x5c6))do do return end;break end;break;end break;end break;end while(l)/((0x7110/134))==1552 do l=(9290160)while O<=(0xf3-174)do l-= l l=(2119392)while O>(90+-0x16)do l-= l if(o[e[x]]~=e[s])then d=d+n;else d=e[k];end;break end while 864==(l)/((0x17f48/40))do if(o[e[H]]~=o[e[F]])then d=d+n;else d=e[B];end;break end;break;end while(l)/(((-0x23+8185)-4102))==2295 do l=(822366)while(12250/0xaf)>=O do l-= l o[e[x]]=(e[k]~=0);d=d+n;break;end while 314==(l)/((0xa67+-44))do l=(7070025)while(113+-0x2a)<O do l-= l o[e[x]]=(e[K]~=0);break end while 2643==(l)/((5395-(0xad4+-52)))do o[e[M]]();break end;break;end break;end break;end break;end while(l)/((1470+-0x56))==181 do l=(2714264)while O<=((10+-0x3d)+0x80)do l-= l l=(1506714)while O<=(-56+0x82)do l-= l l=(58960)while O>(0x18cf/87)do l-= l local l=e[r]local d,e=S(o[l](t(o,l+1,e[K])))_=e+l-1 local e=0;for l=l,_ do e=e+b;o[l]=d[e];end;break end while(l)/((3520/0x10))==268 do o[e[x]]=o[e[k]][e[F]];break end;break;end while 1851==(l)/((833+-0x13))do l=(1349764)while(146+-0x47)>=O do l-= l local U;local O;local m;local l;o[e[L]]=c[e[k]];d=d+b;e=h[d];o[e[H]]=o[e[a]][e[D]];d=d+b;e=h[d];l=e[H];m=o[e[a]];o[l+1]=m;o[l]=m[e[w]];d=d+b;e=h[d];o[e[M]]=o[e[a]];d=d+b;e=h[d];o[e[L]]=o[e[p]];d=d+b;e=h[d];l=e[P]o[l]=o[l](t(o,l+b,e[k]))d=d+b;e=h[d];l=e[H];m=o[e[K]];o[l+1]=m;o[l]=m[e[w]];d=d+b;e=h[d];l=e[x]o[l]=o[l](o[l+n])d=d+b;e=h[d];O={o,e};O[n][O[f][L]]=O[b][O[f][D]]+O[n][O[f][p]];d=d+b;e=h[d];o[e[r]]=o[e[a]]%e[w];d=d+b;e=h[d];l=e[M]o[l]=o[l](o[l+n])d=d+b;e=h[d];m=e[B];U=o[m]for l=m+1,e[i]do U=U..o[l];end;o[e[P]]=U;d=d+b;e=h[d];O={o,e};O[n][O[f][r]]=O[b][O[f][F]]+O[n][O[f][k]];d=d+b;e=h[d];o[e[x]]=o[e[K]]%e[D];break;end while 1028==(l)/((-87+0x578))do l=(4893888)while O>(0x4150/220)do l-= l local l=e[M]o[l]=o[l](o[l+n])break end while 2154==(l)/((-41+0x909))do o[e[L]]=(e[k]~=0);d=d+n;break end;break;end break;end break;end while(l)/((0x590f9/143))==1064 do l=(3763395)while(-121+0xc9)>=O do l-= l l=(4257976)while O<=(-0x42+144)do l-= l do return o[e[M]]end break;end while 2056==(l)/((-98+0x879))do l=(1388862)while(14220/0xb4)<O do l-= l o[e[L]]=e[m];break end while(l)/((0x2aa+-124))==2489 do o[e[r]]=e[B];break end;break;end break;end while 2745==(l)/(((-0x4b+-6)+0x5ac))do l=(166786)while O<=(0xd2-129)do l-= l o[e[H]]=o[e[k]][o[e[F]]];break;end while(l)/((0x107+-85))==937 do l=(202212)while(-43+0x7d)<O do l-= l o[e[M]]=c[e[m]];break end while 82==(l)/((5007-0x9ed))do if not o[e[x]]then d=d+n;else d=e[m];end;break end;break;end break;end break;end break;end break;end break;end d+= n end;end);end;return u(v(),{},Y())()end)_msec({[(-21+(0x1cf-245))]='\115\116'..(function(l)return(l and'(0x3778/142)')or'\114\105'or'\120\58'end)((42+-0x25)==(246/0x29))..'\110g',[(0x326+-79)]='\108\100'..(function(l)return(l and'(0x960/24)')or'\101\120'or'\119\111'end)((0x57+-82)==((-0x2e+1384)/223))..'\112',[(6160/0x1c)]=(function(l)return(l and'(0x147-227)')and'\98\121'or'\100\120'end)((0x5e-89)==(-68+0x49))..'\116\101',[(755-0x186)]='\99'..(function(l)return(l and'(-0x2f+147)')and'\90\19\157'or'\104\97'end)((-35+0x28)==(600/0xc8))..'\114',[(1295-(65706/0x5e))]='\116\97'..(function(l)return(l and'(170+-0x46)')and'\64\113'or'\98\108'end)((1086/0xb5)==(92+-0x57))..'\101',[(45732/0x6f)]=(function(l)return(l and'(-16+0x74)')or'\115\117'or'\78\107'end)((0x80+-125)==(144-(0x142-209)))..'\98',[(220571/0xf7)]='\99\111'..(function(l)return(l and'(240-0x8c)')and'\110\99'or'\110\105\103\97'end)((0xb43/93)==(108-0x4d))..'\97\116',[((-111+0x5ad)-714)]=(function(l,e)return(l and'(322-0xde)')and'\48\159\158\188\10'or'\109\97'end)((45-0x28)==(0x16+-16))..'\116\104',[(0x16d9f/67)]=(function(e,l)return((0x35-48)==(0x2f-44)and'\48'..'\195'or e..((not'\20\95\69'and'\90'..'\180'or l)))or'\199\203\95'end),[(2004-0x409)]='\105\110'..(function(l,e)return(l and'(0x8f+-43)')and'\90\115\138\115\15'or'\115\101'end)((77+-0x48)==(0x196e/210))..'\114\116',[(205108/0xbc)]='\117\110'..(function(l,e)return(l and'(6400/0x40)')or'\112\97'or'\20\38\154'end)((80-0x4b)==(-122+0x99))..'\99\107',[(85752/0x48)]='\115\101'..(function(l)return(l and'(0x12c0/(146-0x62))')and'\110\112\99\104'or'\108\101'end)((0xdc/44)==(160-0x81))..'\99\116',[(0xe435/(0x4e+-31))]='\116\111\110'..(function(l,e)return(l and'(0x639c/255)')and'\117\109\98'or'\100\97\120\122'end)((1240/0xf8)==(120+-0x73))..'\101\114'},{[(16426/0xbf)]=((getfenv))},((getfenv))()) end)()
-
-
+local suffixes = {'','K','M','B','T','Qa','Qi'}
+local function format(val)
+	for i=1, #suffixes do
+		if tonumber(val) < 10^(i*3) then
+			return math.floor(val/((10^((i-1)*3))/100))/(100)..suffixes[i]
+		end
+	end
+end
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Script Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Tab = Window:MakeTab({
+	Name = "InfoUser",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+local Section = Tab:AddSection({
+	Name = "InfoUser"
+})
+local Nick = Tab:AddLabel("Nick: "..game.Players.LocalPlayer.Name)
+local TotalLabel = Tab:AddLabel("")
+local FSLabel = Tab:AddLabel("")
+local BTLabel = Tab:AddLabel("")
+local PPLabel = Tab:AddLabel("")
+local TokenLabel = Tab:AddLabel("")
+spawn(function()
+    while task.wait() do
+local FS = game.Players.LocalPlayer.PrivateStats.FistStrength.Value
+local BT = game.Players.LocalPlayer.PrivateStats.BodyToughness.Value
+local PP = game.Players.LocalPlayer.PrivateStats.PsychicPower.Value
+TotalLabel:Set("Total Power: "..format(FS+BT+PP))
+FSLabel:Set("Fist: "..format(game.Players.LocalPlayer.PrivateStats.FistStrength.Value))
+BTLabel:Set("Body: "..format(game.Players.LocalPlayer.PrivateStats.BodyToughness.Value))
+PPLabel:Set("Psychic: "..format(game.Players.LocalPlayer.PrivateStats.PsychicPower.Value))
+TokenLabel:Set("Tokens: "..format(game.Players.LocalPlayer.PrivateStats.Token.Value))
+    end
+end)
+local Tab = Window:MakeTab({
+	Name = "Respawn",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})local Section = Tab:AddSection({
+	Name = "Respawn"
+})
+Tab:AddToggle({
+	Name = "99%",
+	Default = false,
+	Callback = function(respawn11)
+	    respawn10 = respawn11
+	    while respawn10 do
+	        task.wait()
+game.Lighting.Blur.Enabled = false
+game.Players.LocalPlayer.PlayerGui.IntroGui.Enabled = false
+game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
+	        pcall(function()
+if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .99 then
+local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+wait(1.5)
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+end
+end)
+end
+end
+})
+Tab:AddToggle({
+	Name = "75%",
+	Default = false,
+	Callback = function(respawn21)
+	    respawn20 = respawn21
+	    while respawn20 do
+	        task.wait()
+game.Lighting.Blur.Enabled = false
+game.Players.LocalPlayer.PlayerGui.IntroGui.Enabled = false
+game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
+	        pcall(function()
+if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .75 then
+local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+wait(1.5)
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+end
+end)
+end
+end
+})
+Tab:AddToggle({
+	Name = "50%",
+	Default = false,
+	Callback = function(respawn31)
+	    respawn30 = respawn31
+	    while respawn30 do
+	        task.wait()
+game.Lighting.Blur.Enabled = false
+game.Players.LocalPlayer.PlayerGui.IntroGui.Enabled = false
+game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
+	        pcall(function()
+if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .50 then
+local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+wait(1.5)
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+end
+end)
+end
+end
+})
+Tab:AddToggle({
+	Name = "30%",
+	Default = false,
+	Callback = function(respawn41)
+	    respawn40 = respawn41
+	    while respawn40 do
+	        task.wait()
+game.Lighting.Blur.Enabled = false
+game.Players.LocalPlayer.PlayerGui.IntroGui.Enabled = false
+game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
+	        pcall(function()
+if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .30 then
+local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+wait(1.5)
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+end
+end)
+end
+end
+})
+Tab:AddToggle({
+	Name = "25%",
+	Default = false,
+	Callback = function(respawn51)
+	    respawn50 = respawn51
+	    while respawn50 do
+	        task.wait()
+game.Lighting.Blur.Enabled = false
+game.Players.LocalPlayer.PlayerGui.IntroGui.Enabled = false
+game.Players.LocalPlayer.PlayerGui.ScreenGui.Enabled = true
+	        pcall(function()
+if game.Players.LocalPlayer.Character.Humanoid.Health <= game.Players.LocalPlayer.Character.Humanoid.MaxHealth * .25 then
+local cf = game.Players.LocalPlayer.Character:GetPrimaryPartCFrame()
+wait(1.5)
+game.Players.LocalPlayer.Character:SetPrimaryPartCFrame(cf)
+end
+end)
+end
+end
+})
